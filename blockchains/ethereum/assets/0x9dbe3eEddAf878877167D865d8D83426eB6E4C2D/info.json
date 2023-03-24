@@ -1,0 +1,24 @@
+{
+    "name": "Etherum",
+    "type": "ERC20",
+    "symbol": "ETH",
+    "decimals": 18,
+    "website": "https://GitHub.com",
+    "description": "A pioneer in the hi-tech blockchain and Web3verse ecosystem., you get secured but not limited. From now, the Internet is yours!\",",
+    "explorer": "https://etherscan.io/token/0x9dbe3eEddAf878877167D865d8D83426eB6E4C2D",
+    "status": "active",
+    "id": "0x9dbe3eEddAf878877167D865d8D83426eB6E4C2D",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        }
+    ],
+    "tags": [
+        "nft"
+    ]
+}
